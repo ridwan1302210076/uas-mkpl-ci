@@ -9,7 +9,7 @@ public class TallyTest {
     public void testInitialize() {
         Tally testTally = new Tally();
         
-        for (int i = 0; i = 10; i++) {
+        for (int i = 0; i < 10; i++) {
             testTally.add();
         }
         
